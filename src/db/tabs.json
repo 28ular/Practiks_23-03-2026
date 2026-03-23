@@ -1,0 +1,9 @@
+[
+  { "id": 1, "title": "React Hooks Guide", "category": "Tech" },
+  { "id": 2, "title": "Football World Cup", "category": "Sports" },
+  { "id": 3, "title": "Latest Tech Trends", "category": "Tech" },
+  { "id": 4, "title": "Breaking News Today", "category": "News" },
+  { "id": 5, "title": "Olympic Games 2026", "category": "Sports" },
+  { "id": 6, "title": "JavaScript Basics", "category": "Tech" },
+  { "id": 7, "title": "Political Update", "category": "News" }
+]
